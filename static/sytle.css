@@ -1,0 +1,134 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    max-width: 800px;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+    color: #333;
+  }
+  
+  h1 {
+    color: #2c3e50;
+    font-size: 2rem;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1rem;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 0.5rem 0;
+  }
+  
+  a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  strong {
+    color: #2c3e50;
+  }
+  
+  p {
+    margin: 0.5rem 0;
+  }
+  
+  .container {
+    background-color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  body {
+    background-color: #f8f9fa;
+    color: #212529;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    color: #343a40;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    font-size: 0.95rem;
+  }
+  
+  /* General layout */
+body {
+    background-color: #f1f3f5;
+    color: #212529;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Headings */
+  h1 {
+    color: #2c3e50;
+    font-size: 2.2rem;
+    font-weight: 600;
+  }
+  
+  /* Container spacing */
+  .container {
+    padding: 2rem 1rem;
+  }
+  
+  /* Cards customization */
+  .card {
+    border: 1px solid #dee2e6;
+    border-radius: 0.5rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Card headers */
+  .card-header {
+    background-color: #f8f9fa;
+    font-weight: 600;
+    font-size: 1.1rem;
+  }
+  
+  /* List items inside cards */
+  .list-group-item {
+    font-size: 0.95rem;
+    padding: 0.75rem 1rem;
+  }
+  
+  /* Buttons */
+  .btn {
+    font-size: 0.9rem;
+    padding: 0.5rem 1rem;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004b9b;
+  }
+  
+  .btn-secondary {
+    background-color: #6c757d;
+    border-color: #6c757d;
+  }
+  
+  .btn-secondary:hover {
+    background-color: #545b62;
+    border-color: #4e555b;
+  }
+  
